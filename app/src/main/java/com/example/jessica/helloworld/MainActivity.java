@@ -40,9 +40,9 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
 
     }
-/*
+
     public void foo (final View view) {
         Toast.makeTest(getApplication(), "Hello, world!", Toast.LENGTH_SHORT).show();
-    } */
+    }
 }
 
