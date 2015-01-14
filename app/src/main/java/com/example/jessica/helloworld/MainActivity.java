@@ -44,7 +44,7 @@ public class MainActivity extends ActionBarActivity {
     /*
     public void foo (final View view) {
         Toast.makeTest(getApplication(), "Hello, world!", Toast.LENGTH_SHORT).show();
-    }
+    }  COMMENT COMMENT COMMENT
     */
 }
 
